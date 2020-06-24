@@ -27,3 +27,5 @@ Johann Wolfgang von Goethe sagte:
 
 > Der Charakter ruht auf der Persönlichkeit, 
 > nicht auf den Talenten.
+
+<img src="https://loverude.de/img/TDose/IMG_02_q.jpg"/>
