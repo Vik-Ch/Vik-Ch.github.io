@@ -23,3 +23,7 @@ Man hat eine menge Geduld
 * Man ist fähig Nein zu sagen 
 * Man hat eine menge Geduld
 
+Johann Wolfgang von Goethe sagte:
+
+> Der Charakter ruht auf der Persönlichkeit, 
+> nicht auf den Talenten.
